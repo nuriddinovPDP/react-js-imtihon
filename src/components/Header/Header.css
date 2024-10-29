@@ -1,0 +1,21 @@
+.site-header {
+  background-color: darkorchid;
+  padding: 20px;
+}
+.site-header__inner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.site-header__list {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  gap: 50px;
+}
+.site-header__item-link {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  font-weight: 500;
+}
